@@ -2,7 +2,7 @@
 
 Landing page responsiva desenvolvida para a **Lottus Beauty**, uma marca fictícia de cosméticos capilares inspirada na inovação asiática e no cuidado consciente.
 
-O projeto foi criado como atividade acadêmica do curso de Sistemas de Informação, com foco na aplicação prática de HTML5 e CSS3.
+O projeto foi criado como atividade acadêmica, com foco na aplicação prática de HTML5 e CSS3.
 
 ## Tecnologias utilizadas
 
