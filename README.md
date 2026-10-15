@@ -23,7 +23,7 @@ O projeto foi criado como atividade acadêmica, com foco na aplicação prática
 
 ## Acessar o projeto
 
-**Site publicado:** https://cassiomagno7.github.io/lottus-beauty/
+**Site publicado:** https://cassiomagno7.github.io/lottus-beauty/](https://devcassiomagno.github.io/lottus-beauty/
 
 ## Objetivo
 
