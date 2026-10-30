@@ -21,6 +21,7 @@ html {
 }
 
 body {
+  padding-top: 70px;
   margin: 0;
   background: var(--cream);
   color: var(--ink);
